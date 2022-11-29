@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "sV2-PA-NGU"; */
+"sV2-PA-NGU.configuration.title" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "sV2-PA-NGU"; */
+"sV2-PA-NGU.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Count"; ObjectID = "uZy-An-Ovm"; */
+"uZy-An-Ovm.text" = "Enchante";
+
+/* Class = "UIButton"; configuration.title = "Next Screen"; ObjectID = "wC5-Sk-iCD"; */
+"wC5-Sk-iCD.configuration.title" = "Next Screen";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "wC5-Sk-iCD"; */
+"wC5-Sk-iCD.normalTitle" = "Enchante";

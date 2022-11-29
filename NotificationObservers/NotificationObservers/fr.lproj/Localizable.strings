@@ -1,0 +1,18 @@
+/* 
+  Localizable+French.strings
+  NotificationObservers
+
+  Created by Apple on 21/11/22.
+  
+*/
+
+"name1" = "Kapadia";
+"address1" = "asdfghjklxzcvbnm";
+
+"name2" = "Miranda";
+"address2" = "asdfghjklxzcvbnm";
+
+"name3" = "DCosta";
+"address3" = "asdfghjklxzcvbnm";
+
+"Button" = "Enchante";
